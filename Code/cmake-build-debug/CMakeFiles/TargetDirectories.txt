@@ -1,0 +1,3 @@
+/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/CMakeFiles/run.dir
+/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/CMakeFiles/rebuild_cache.dir

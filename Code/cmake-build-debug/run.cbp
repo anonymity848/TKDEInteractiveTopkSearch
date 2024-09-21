@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="run"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run">
+				<Option output="/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/run" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/."/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/Others"/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull"/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/QuadProg"/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure"/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/UH"/>
+					<Add directory="/opt/homebrew/opt/glpk/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 run"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="run/fast">
+				<Option output="/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/run" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/."/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/Others"/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull"/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/QuadProg"/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure"/>
+					<Add directory="/Users/wangweicheng/Desktop/Journal/exp/KNN/UH"/>
+					<Add directory="/opt/homebrew/opt/glpk/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/15.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 run/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/Users/wangweicheng/Desktop/Journal/exp/KNN/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/2D/PI.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/2D/PI.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/ActiveRanking/ActiveRanking.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/ActiveRanking/ActiveRanking.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/GroundTruth/Groundtruth.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/GroundTruth/Groundtruth.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/HD/HDPI/HDPI.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/HD/HDPI/HDPI.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/HD/RH/RH.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/HD/RH/RH.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/HD/Unify/Unify.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/HD/Unify/Unify.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/Others/lp.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/Others/lp.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/Others/operation.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/Others/operation.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/Others/pruning.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/Others/pruning.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/PreferenceLearning/preferenceLearning.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/PreferenceLearning/preferenceLearning.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/QuadProg/Array.cc">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/QuadProg/Array.hh">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/QuadProg/QuadProg++.cc">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/QuadProg/QuadProg++.hh">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/Scale/Scale.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/Scale/Scale.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/UH/Median_Hull.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/UH/Median_Hull.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/UH/UH.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/UH/UH.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/UH/frame.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/UH/frame.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/UtilityApprox/UtilityApprox.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/UtilityApprox/UtilityApprox.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/main.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/output/ext_pt.txt">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/output/hyperplane_data.txt">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/output/point.txt">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/output/top.txt">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/geom.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/geom.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/geom2.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/global.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/io.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/io.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/libqhull.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/libqhull.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/mem.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/mem.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/merge.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/merge.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/poly.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/poly.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/poly2.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/qhull_a.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/qhull_build.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/qhull_build.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/qset.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/qset.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/random.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/random.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/rboxlib.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/stat.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/stat.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/user.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/user.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/usermem.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/userprintf.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/qhull/userprintf_rbox.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/Partition.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/Partition.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/choose_item.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/choose_item.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/cluster_t.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/cluster_t.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/data_struct.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/data_utility.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/data_utility.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/define.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/hyperplane.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/hyperplane.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/hyperplane_set.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/hyperplane_set.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/point_set.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/point_set.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/point_t.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/point_t.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/rtree.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/rtree.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/s_node.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/s_node.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/u_vector.cpp">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/structure/u_vector.h">
+			<Option target="run"/>
+		</Unit>
+		<Unit filename="/Users/wangweicheng/Desktop/Journal/exp/KNN/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
